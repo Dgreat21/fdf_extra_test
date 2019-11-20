@@ -15,7 +15,7 @@ I used FdF (github.com/VBrazhnik/FdF) for visualization because mine has readabl
 
 ![Image alt](https://github.com/Dgreat21/fdf_extra_test/raw/master/img/mand1000_1.png)
 ![Image alt](https://github.com/Dgreat21/fdf_extra_test/raw/master/img/mand1000_2.png)
-<h2>The third test is a 2000x2000 map if it works well</h2>
+<h2>The third test is a 2000x2000 map, if it works well</h2>
 
 ![Image alt](https://github.com/Dgreat21/fdf_extra_test/raw/master/img/mand2000_1.png)
 ![Image alt](https://github.com/Dgreat21/fdf_extra_test/raw/master/img/mand2000_2.png)
